@@ -1,6 +1,8 @@
 
 <h2>Hey, I am <a href="https://www.linkedin.com/in/imneonizer/">Nitin Rai</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=imneonizer)
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://www.linkedin.com/in/imneonizer/"><img src="logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/imneonizer"><img src="logos/github-logo.png" width="40" /></a>

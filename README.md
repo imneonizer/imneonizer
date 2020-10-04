@@ -16,7 +16,7 @@
 <summary>Education 📚</summary>
 <ul>
   <li>BCA (Pursuing): <a href="http://rchyderabad.ignou.ac.in/">IGNOU</a></li>
-  <li>Schooling: <a href="https://www.ashokmemorialschool.in/">Ashok Memorial Public School, Faridabad</a></li>
+  <li>Schooling: <a href="#">Ashok Memorial Public School, Faridabad</a></li>
 </ul>
 </details>
 

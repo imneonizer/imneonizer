@@ -15,7 +15,7 @@
 <details>
 <summary>Education 📚</summary>
 <ul>
-  <li>BCA (Pursuing): <a href="http://rchyderabad.ignou.ac.in/">IGNOU</a></li>
+  <li>B.Tech (CSE): <a href=#>YBN University</a></li>
   <li>Schooling: <a href="#">Ashok Memorial Public School, Faridabad</a></li>
 </ul>
 </details>

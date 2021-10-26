@@ -8,6 +8,7 @@
 <a href="mailto:mneonizer@gmail.com"><img src="logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/imneonizer"><img src="logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/the.nitin.rai"><img src="logos/instagram.png" width="40" /></a>
+<a href="https://forums.developer.nvidia.com/u/nitinrai/summary"><img src="logos/nvidia.png" width="40" /></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=imneonizer)
 

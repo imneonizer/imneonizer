@@ -16,7 +16,7 @@
 <details>
 <summary>Education 📚</summary>
 <ul>
-  <li>B.Tech (CSE): <a href=#>William Carey University</a></li>
+  <li>B.Tech (CSE): <a href=#>Sangai International University</a></li>
   <li>Schooling: <a href="#">Ashok Memorial Public School, Faridabad</a></li>
 </ul>
 </details>
